@@ -1,0 +1,28 @@
+{
+  "name": "pcdrum-envelope",
+  "version": "0.0.1",
+  "description": "PC Drum - Envelope Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvm/pcdrum-envelope-js.git"
+  },
+  "keywords": [
+    "envelope",
+    "node",
+    "node-webkit",
+    "nwjs",
+    "audiocontext",
+    "web",
+    "audio"
+  ],
+  "author": "Mauro <mauro@sdf.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvm/pcdrum-envelope-js/issues"
+  },
+  "homepage": "https://github.com/lvm/pcdrum-envelope-js#readme"
+}
